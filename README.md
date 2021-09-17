@@ -2,7 +2,7 @@
 
 ## Ethan Grant
 
-###Interests
+### Interests
 * Video Games
 * Artificial Intelligence
 * Computers
